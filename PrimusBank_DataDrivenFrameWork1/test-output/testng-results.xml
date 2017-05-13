@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27360" started-at="2017-04-29T16:34:15Z" finished-at="2017-04-29T16:34:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27360" started-at="2017-04-29T16:34:15Z" finished-at="2017-04-29T16:34:42Z">
+      <class name="com.primusbank.tests.BankerLoginDDT">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.primusbank.tests.BankerLoginDDT@625732]" name="LaunchApp" is-config="true" duration-ms="4357" started-at="2017-04-29T22:04:10Z" finished-at="2017-04-29T22:04:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="bankerLoginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.primusbank.tests.BankerLoginDDT@625732]" name="bankerLoginTest" duration-ms="10063" started-at="2017-04-29T22:04:19Z" data-provider="testdata" finished-at="2017-04-29T22:04:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rourkela]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bapu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bapu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankerLoginTest -->
+        <test-method status="PASS" signature="bankerLoginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.primusbank.tests.BankerLoginDDT@625732]" name="bankerLoginTest" duration-ms="7083" started-at="2017-04-29T22:04:29Z" data-provider="testdata" finished-at="2017-04-29T22:04:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kukatpally]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankerLoginTest -->
+        <test-method status="PASS" signature="bankerLoginTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.primusbank.tests.BankerLoginDDT@625732]" name="bankerLoginTest" duration-ms="6315" started-at="2017-04-29T22:04:36Z" data-provider="testdata" finished-at="2017-04-29T22:04:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ameerpet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Richards]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[demo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bankerLoginTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.primusbank.tests.BankerLoginDDT@625732]" name="closeApp" is-config="true" duration-ms="97" started-at="2017-04-29T22:04:42Z" finished-at="2017-04-29T22:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.primusbank.tests.BankerLoginDDT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
